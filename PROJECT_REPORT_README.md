@@ -20,7 +20,7 @@ The model perform better with -30.38 score and which is 42.6% increase, I think 
 
 ## Hyper parameter tuning
 ### How much better did your model preform after trying different hyper parameters?
-The model performed better with hyperparameter but not upto the one with added features score = # -36.33 #%increase = 31.46%
+The model performed better with hyperparameter but not upto the one with added features score = -36.33 %increase = 31.46%
 
 ### If you were given more time with this dataset, where do you think you would spend more time?
 I would add new features suh as datetime day, minutes and seconds
